@@ -1,5 +1,5 @@
-const React = require('react')
-const ReactDom = require('react-dom')
+import  React from 'react'
+import ReactDom from 'react-dom'
 
 // ReactDom.render(what, where, cb)
 ReactDom.render(
